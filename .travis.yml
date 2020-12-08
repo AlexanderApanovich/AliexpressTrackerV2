@@ -1,7 +1,7 @@
 language: node_js
 env:
   global:
-    - CC_TEST_REPORTER_ID=get-this-from-code-climate-repo-page
+    - CC_TEST_REPORTER_ID=718c0ee36c051e7df28c06a15f1036f377bb9a42a7808773be165f0a16fe1b78
 matrix:
   include:
   - node_js: '12'
