@@ -1,4 +1,4 @@
-# Aliexpress Package Tracker
+# Node.js Package Tracker
 [![Build Status](https://travis-ci.com/AlexanderApanovich/AliexpressTrackerV2.svg?branch=main)](https://travis-ci.com/AlexanderApanovich/AliexpressTrackerV2)
 [![Coverage Status](https://coveralls.io/repos/github/AlexanderApanovich/AliexpressTrackerV2/badge.svg?branch=main)](https://coveralls.io/github/AlexanderApanovich/AliexpressTrackerV2?branch=main)
 [![Maintainability](https://api.codeclimate.com/v1/badges/e704f6354f4c50ded8a7/maintainability)](https://codeclimate.com/github/AlexanderApanovich/AliexpressTrackerV2/maintainability)
